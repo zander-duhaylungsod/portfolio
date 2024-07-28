@@ -1,6 +1,6 @@
 @media (max-width: 767px) {
     body {
-        overflow-x: hidden;
+        overflow: hidden;
     }
 
     /* index */
