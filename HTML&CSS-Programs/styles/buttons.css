@@ -1,0 +1,21 @@
+.btn {
+    background-color: black;
+    color: white;
+    font-size: 1.1em;
+    padding: 10px 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.15s;
+    font-family: inherit;
+}
+
+.btn:active {
+    box-shadow: 5px 5px 30px rgb(118, 118, 118);
+}
+
+.centered-btn-wrapper {
+    display: flex;
+    justify-content: right;
+    margin-right: 10px;
+}
