@@ -96,6 +96,7 @@
     /* merits page */
     .menu-wrapper {
         margin-top: 20px;
+        width: 100%;
     }
 
     .menu-wrapper > .divider {
