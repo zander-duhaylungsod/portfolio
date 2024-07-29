@@ -100,10 +100,14 @@
 
     .menu-wrapper > .divider {
         width: 100%;
+        height: 30px;
+        padding: 0;
     }
 
     .menu-wrapper > .divider-end {
         width: 100%;
+        height: 30px;
+        padding: 0;
     }
 
     .menu-wrapper > .squares-wrapper {
